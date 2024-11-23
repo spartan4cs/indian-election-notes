@@ -71,15 +71,12 @@ To elect Members of Parliament (MPs) to form the central government.
 | 6                 | Ladakh                               | 1                         |
 | 7                 | Puducherry                           | 1                         |
 
-**Total Seats for Union Territories:** **14**
+**Total Seats for Union Territories:** **14
+
+**Grand Total (States + Union Territories):**543 Seats**
 
 ---
 
-##### **Grand Total (States + Union Territories):** **543 Seats**
-
-This breakdown provides clarity by separately listing the seats allocated for **states** and  **Union Territories** , along with their rankings.
-
----
 
 #### 2. **State Elections (Vidhan Sabha)**
 
