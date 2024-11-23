@@ -376,3 +376,5 @@ Let’s break down the work done by  **Members of Parliament (MPs)** ,  **Member
 * **MPs** handle national matters like laws, the economy, and defense.
 * **MLAs** deal with state-specific issues, affecting local governance, law, and order, and social welfare.
 * **Corporators** work on day-to-day issues impacting citizens at the community level, such as local infrastructure, sanitation, and public services.
+
+---
