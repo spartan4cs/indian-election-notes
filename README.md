@@ -4,6 +4,11 @@
 * [https://chatgpt.com/share/6741c2fb-8b94-8011-984d-3dbe52ce2ec8](https://chatgpt.com/share/6741c2fb-8b94-8011-984d-3dbe52ce2ec8)
 * [Terms of the Houses | Election Commission of India](https://www.eci.gov.in/term-of-the-houses)
 
+| english    | hindi          | marathi    |
+| ---------- | -------------- | ---------- |
+| mp         | sansad sadasya | khasdar    |
+| mla        | vidhayak       | aamdar     |
+| corporator | nagarsevak     | nagarsevak |
 
 
 | **S.No.** | **State/UT**                                               | **From** | **To** | **Lok Sabha Seats** | **Assembly Seats** | **Rajya Sabha Seats** |
