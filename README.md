@@ -10,7 +10,13 @@
 | mla        | vidhayak       | aamdar     |
 | corporator | nagarsevak     | nagarsevak |
 
-### Lok sabha , Vidhan Sabha seats
+| englist | hindi         | marathi      |
+| ------- | ------------- | ------------ |
+| pm      | pradhanmantri | pantapradhan |
+| cm      | mukhyamantri  | mukhyamantri |
+| mayor   | mahapour      | mahapour     |
+
+### Lok sabha Vidhan Sabha
 
 | **S.No.** | **State/UT**                                               | **From** | **To** | **Lok Sabha Seats** | **Assembly Seats** | **Rajya Sabha Seats** |
 | --------------- | ---------------------------------------------------------------- | -------------- | ------------ | ------------------------- | ------------------------ | --------------------------- |
