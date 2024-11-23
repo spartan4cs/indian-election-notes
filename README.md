@@ -1,7 +1,7 @@
 ### Resources
 
 * [https://results.eci.gov.in/](https://results.eci.gov.in/)
-* 
+* https://chatgpt.com/share/6741c2fb-8b94-8011-984d-3dbe52ce2ec8
 
 ### General, State, and Municipal Elections in India: Explained
 
@@ -19,6 +19,65 @@ To elect Members of Parliament (MPs) to form the central government.
 * **Process:** Voters in each constituency vote for candidates representing various political parties.
 * **Winner:** The candidate with the most votes in a constituency wins.
 * **Government Formation:** The party or coalition with a majority (272+ seats) forms the government, and their leader becomes the  **Prime Minister** .
+
+
+##### **Lok Sabha Seats: States** 
+
+| **Sr. No.** | **State**   | **Number of Seats** |
+| ----------------- | ----------------- | ------------------------- |
+| 1                 | Uttar Pradesh     | 80                        |
+| 2                 | Maharashtra       | 48                        |
+| 3                 | West Bengal       | 42                        |
+| 4                 | Bihar             | 40                        |
+| 5                 | Tamil Nadu        | 39                        |
+| 6                 | Madhya Pradesh    | 29                        |
+| 7                 | Karnataka         | 28                        |
+| 8                 | Gujarat           | 26                        |
+| 9                 | Andhra Pradesh    | 25                        |
+| 10                | Rajasthan         | 25                        |
+| 11                | Odisha            | 21                        |
+| 12                | Kerala            | 20                        |
+| 13                | Telangana         | 17                        |
+| 14                | Assam             | 14                        |
+| 15                | Jharkhand         | 14                        |
+| 16                | Punjab            | 13                        |
+| 17                | Chhattisgarh      | 11                        |
+| 18                | Haryana           | 10                        |
+| 19                | Uttarakhand       | 5                         |
+| 20                | Jammu & Kashmir   | 5                         |
+| 21                | Himachal Pradesh  | 4                         |
+| 22                | Arunachal Pradesh | 2                         |
+| 23                | Goa               | 2                         |
+| 24                | Manipur           | 2                         |
+| 25                | Meghalaya         | 2                         |
+| 26                | Tripura           | 2                         |
+| 27                | Mizoram           | 1                         |
+| 28                | Nagaland          | 1                         |
+| 29                | Sikkim            | 1                         |
+
+**Total Seats for States:** **529**
+
+---
+
+##### **Lok Sabha Seats: Union Territories** 
+
+| **Sr. No.** | **Union Territory**            | **Number of Seats** |
+| ----------------- | ------------------------------------ | ------------------------- |
+| 1                 | Delhi (NCT)                          | 7                         |
+| 2                 | Dadra & Nagar Haveli and Daman & Diu | 2                         |
+| 3                 | Andaman & Nicobar Islands            | 1                         |
+| 4                 | Chandigarh                           | 1                         |
+| 5                 | Lakshadweep                          | 1                         |
+| 6                 | Ladakh                               | 1                         |
+| 7                 | Puducherry                           | 1                         |
+
+**Total Seats for Union Territories:** **14**
+
+---
+
+##### **Grand Total (States + Union Territories):** **543 Seats**
+
+This breakdown provides clarity by separately listing the seats allocated for **states** and  **Union Territories** , along with their rankings.
 
 ---
 
@@ -320,3 +379,65 @@ Let’s break down the work done by  **Members of Parliament (MPs)** ,  **Member
 * **MPs** handle national matters like laws, the economy, and defense.
 * **MLAs** deal with state-specific issues, affecting local governance, law, and order, and social welfare.
 * **Corporators** work on day-to-day issues impacting citizens at the community level, such as local infrastructure, sanitation, and public services.
+
+
+
+
+
+### **Lok Sabha Seats: States (Ordered by Number of Seats)**
+
+| **Sr. No.** | **State**   | **Number of Seats** |
+| ----------------- | ----------------- | ------------------------- |
+| 1                 | Uttar Pradesh     | 80                        |
+| 2                 | Maharashtra       | 48                        |
+| 3                 | West Bengal       | 42                        |
+| 4                 | Bihar             | 40                        |
+| 5                 | Tamil Nadu        | 39                        |
+| 6                 | Madhya Pradesh    | 29                        |
+| 7                 | Karnataka         | 28                        |
+| 8                 | Gujarat           | 26                        |
+| 9                 | Andhra Pradesh    | 25                        |
+| 10                | Rajasthan         | 25                        |
+| 11                | Odisha            | 21                        |
+| 12                | Kerala            | 20                        |
+| 13                | Telangana         | 17                        |
+| 14                | Assam             | 14                        |
+| 15                | Jharkhand         | 14                        |
+| 16                | Punjab            | 13                        |
+| 17                | Chhattisgarh      | 11                        |
+| 18                | Haryana           | 10                        |
+| 19                | Uttarakhand       | 5                         |
+| 20                | Jammu & Kashmir   | 5                         |
+| 21                | Himachal Pradesh  | 4                         |
+| 22                | Arunachal Pradesh | 2                         |
+| 23                | Goa               | 2                         |
+| 24                | Manipur           | 2                         |
+| 25                | Meghalaya         | 2                         |
+| 26                | Tripura           | 2                         |
+| 27                | Mizoram           | 1                         |
+| 28                | Nagaland          | 1                         |
+| 29                | Sikkim            | 1                         |
+
+**Total Seats for States:** **529**
+
+---
+
+### **Lok Sabha Seats: Union Territories (Ordered by Number of Seats)**
+
+| **Sr. No.** | **Union Territory**            | **Number of Seats** |
+| ----------------- | ------------------------------------ | ------------------------- |
+| 1                 | Delhi (NCT)                          | 7                         |
+| 2                 | Dadra & Nagar Haveli and Daman & Diu | 2                         |
+| 3                 | Andaman & Nicobar Islands            | 1                         |
+| 4                 | Chandigarh                           | 1                         |
+| 5                 | Lakshadweep                          | 1                         |
+| 6                 | Ladakh                               | 1                         |
+| 7                 | Puducherry                           | 1                         |
+
+**Total Seats for Union Territories:** **14**
+
+---
+
+### **Grand Total (States + Union Territories):** **543 Seats**
+
+This breakdown provides clarity by separately listing the seats allocated for **states** and  **Union Territories** , along with their rankings.
