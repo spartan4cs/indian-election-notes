@@ -4,6 +4,54 @@
 * [https://chatgpt.com/share/6741c2fb-8b94-8011-984d-3dbe52ce2ec8](https://chatgpt.com/share/6741c2fb-8b94-8011-984d-3dbe52ce2ec8)
 * [Terms of the Houses | Election Commission of India](https://www.eci.gov.in/term-of-the-houses)
 
+
+
+| **S.No.** | **State/UT**                                               | **From** | **To** | **Lok Sabha Seats** | **Assembly Seats** | **Rajya Sabha Seats** |
+| --------------- | ---------------------------------------------------------------- | -------------- | ------------ | ------------------------- | ------------------------ | --------------------------- |
+| 1               | Andhra Pradesh                                                   | 21.06.2024     | 20.06.2029   | 25                        | 175                      | 11                          |
+| 2               | Arunachal Pradesh                                                | 14.06.2024     | 13.06.2029   | 2                         | 60                       | 1                           |
+| 3               | Assam                                                            | 21.05.2021     | 20.05.2026   | 14                        | 126                      | 7                           |
+| 4               | Bihar                                                            | 23.11.2020     | 22.11.2025   | 40                        | 243                      | 16                          |
+| 5               | Chhattisgarh                                                     | 19.12.2023     | 18.12.2028   | 11                        | 90                       | 5                           |
+| 6               | Goa                                                              | 15.03.2022     | 14.03.2027   | 2                         | 40                       | 1                           |
+| 7               | Gujarat                                                          | 20.12.2022     | 19.12.2027   | 26                        | 182                      | 11                          |
+| 8               | Haryana                                                          | 25.10.2024     | 24.10.2029   | 10                        | 90                       | 5                           |
+| 9               | Himachal Pradesh                                                 | 04.01.2023     | 03.01.2028   | 4                         | 68                       | 3                           |
+| 10              | Jharkhand                                                        | 06.01.2020     | 05.01.2025   | 14                        | 81                       | 6                           |
+| 11              | Karnataka                                                        | 22.05.2023     | 21.05.2028   | 28                        | 224                      | 12                          |
+| 12              | Kerala                                                           | 24.05.2021     | 23.05.2026   | 20                        | 140                      | 9                           |
+| 13              | Madhya Pradesh                                                   | 18.12.2023     | 17.12.2028   | 29                        | 230                      | 11                          |
+| 14              | Maharashtra                                                      | 27.11.2019     | 26.11.2024   | 48                        | 288                      | 19                          |
+| 15              | Manipur                                                          | 14.03.2022     | 13.03.2027   | 2                         | 60                       | 1                           |
+| 16              | Meghalaya                                                        | 06.03.2023     | 05.03.2028   | 2                         | 60                       | 1                           |
+| 17              | Mizoram                                                          | 12.12.2023     | 11.12.2028   | 1                         | 40                       | 1                           |
+| 18              | Nagaland                                                         | 20.03.2023     | 19.03.2028   | 1                         | 60                       | 1                           |
+| 19              | NCT Delhi                                                        | 24.02.2020     | 23.02.2025   | 7                         | 70                       | 3                           |
+| 20              | Odisha                                                           | 22.07.2024     | 21.07.2029   | 21                        | 147                      | 10                          |
+| 21              | Puducherry                                                       | 16.06.2021     | 15.06.2026   | 1                         | 30                       | 1                           |
+| 22              | Punjab                                                           | 17.03.2022     | 16.03.2027   | 13                        | 117                      | 7                           |
+| 23              | Rajasthan                                                        | 20.12.2023     | 19.12.2028   | 25                        | 200                      | 10                          |
+| 24              | Sikkim                                                           | 12.06.2024     | 11.06.2029   | 1                         | 32                       | 1                           |
+| 25              | Tamil Nadu                                                       | 11.05.2021     | 10.05.2026   | 39                        | 234                      | 18                          |
+| 26              | Telangana                                                        | 09.12.2023     | 08.12.2028   | 17                        | 119                      | 7                           |
+| 27              | Tripura                                                          | 24.03.2023     | 23.03.2028   | 2                         | 60                       | 1                           |
+| 28              | Uttar Pradesh                                                    | 23.05.2022     | 22.05.2027   | 80                        | 403                      | 31                          |
+| 29              | Uttarakhand                                                      | 29.03.2022     | 28.03.2027   | 5                         | 70                       | 3                           |
+| 30              | UT of Jammu & Kashmir                                            | 04.11.2024     | 03.11.2029   | 5                         | 90                       | 4                           |
+| 31              | West Bengal                                                      | 08.05.2021     | 07.05.2026   | 42                        | 294                      | 16                          |
+| **32**    | **One seat each for UTs of ANI, CH, DNH, DD, LKD, Ladakh** |                |              | **6**               |                          |                             |
+| **33**    | **Nominated Members in Rajya Sabha**                       |                |              |                           |                          | **12**                |
+| **34**    | **Nominated Members in Lok Sabha**                         |                |              | **2**               |                          |                             |
+|                 |                                                                  |                |              | ***545**            | **4123**                | **245****                  |
+
+
+
+---
+
+This list is now organized by the  **S.No.** , with the respective **term** of legislative assemblies,  **Lok Sabha** ,  **Rajya Sabha** , and **Assembly seats** for each state or Union Territory.
+
+Let me know if you need any further details!
+
 ### General, State, and Municipal Elections in India: Explained
 
 India has a three-tiered government system: central (national), state, and local (municipal or rural). Elections at each level work differently but follow some common principles. Let’s break each type down:
@@ -21,62 +69,10 @@ To elect Members of Parliament (MPs) to form the central government.
 * **Winner:** The candidate with the most votes in a constituency wins.
 * **Government Formation:** The party or coalition with a majority (272+ seats) forms the government, and their leader becomes the  **Prime Minister** .
 
-
-##### **Lok Sabha Seats: States** 
-
-| **Sr. No.** | **State**   | **Number of Seats** |
-| ----------------- | ----------------- | ------------------------- |
-| 1                 | Uttar Pradesh     | 80                        |
-| 2                 | Maharashtra       | 48                        |
-| 3                 | West Bengal       | 42                        |
-| 4                 | Bihar             | 40                        |
-| 5                 | Tamil Nadu        | 39                        |
-| 6                 | Madhya Pradesh    | 29                        |
-| 7                 | Karnataka         | 28                        |
-| 8                 | Gujarat           | 26                        |
-| 9                 | Andhra Pradesh    | 25                        |
-| 10                | Rajasthan         | 25                        |
-| 11                | Odisha            | 21                        |
-| 12                | Kerala            | 20                        |
-| 13                | Telangana         | 17                        |
-| 14                | Assam             | 14                        |
-| 15                | Jharkhand         | 14                        |
-| 16                | Punjab            | 13                        |
-| 17                | Chhattisgarh      | 11                        |
-| 18                | Haryana           | 10                        |
-| 19                | Uttarakhand       | 5                         |
-| 20                | Jammu & Kashmir   | 5                         |
-| 21                | Himachal Pradesh  | 4                         |
-| 22                | Arunachal Pradesh | 2                         |
-| 23                | Goa               | 2                         |
-| 24                | Manipur           | 2                         |
-| 25                | Meghalaya         | 2                         |
-| 26                | Tripura           | 2                         |
-| 27                | Mizoram           | 1                         |
-| 28                | Nagaland          | 1                         |
-| 29                | Sikkim            | 1                         |
-
-**Total Seats for States:** **529**
+-
 
 ---
 
-##### **Lok Sabha Seats: Union Territories** 
-
-| **Sr. No.** | **Union Territory**            | **Number of Seats** |
-| ----------------- | ------------------------------------ | ------------------------- |
-| 1                 | Delhi (NCT)                          | 7                         |
-| 2                 | Dadra & Nagar Haveli and Daman & Diu | 2                         |
-| 3                 | Andaman & Nicobar Islands            | 1                         |
-| 4                 | Chandigarh                           | 1                         |
-| 5                 | Lakshadweep                          | 1                         |
-| 6                 | Ladakh                               | 1                         |
-| 7                 | Puducherry                           | 1                         |
-
-**Total Seats for Union Territories:** **14
-
-**Grand Total (States + Union Territories):**543 Seats**
-
----
 
 
 #### 2. **State Elections (Vidhan Sabha)**
@@ -210,7 +206,7 @@ Here’s a comparative table summarizing the  **General (Lok Sabha)** ,  **State
 | **Representation**              | Represents the entire country                                              | Represents individual states                                                        | Represents specific wards or localities                                 |
 | **Elected Representatives**     | **MPs**(Members of Parliament)                                       | **MLAs**(Members of Legislative Assembly)                                     | **Corporators/Councilors**(Municipal) or**Sarpanch**(Rural) |
 | **Leader Chosen**               | **Prime Minister** , head of the Central Government                  | **Chief Minister** , head of the State Government                             | **Mayor (Urban)**or**Sarpanch (Rural)**                     |
-| **Constituencies/Wards**        | Divided into**Lok Sabha constituencies**(543 in India).              | Divided into**Assembly Constituencies (ACs)**(Varies by state).               | Divided into **wards**(Varies by city or village).               |
+| **Constituencies/Wards**        | Divided into**Lok Sabha constituencies**(543 in India).              | Divided into**Assembly Constituencies (ACs)**(Varies by state).               | Divided into**wards**(Varies by city or village).                 |
 | **Example for Maharashtra**     | 48 Lok Sabha constituencies (e.g., Mumbai South).                          | 288 Assembly constituencies (e.g., Colaba, Bandra East).                            | 227 wards in Mumbai (e.g., Andheri West, Dadar).                        |
 | **Focus Areas**                 | National issues like defense, economy, and foreign policy.                 | State issues like law and order, education, health, and infrastructure.             | Local issues like garbage collection, water supply, and roads.          |
 | **Voting System**               | First-Past-The-Post (FPTP): candidate with the most votes wins.            | First-Past-The-Post (FPTP): candidate with the most votes wins.                     | First-Past-The-Post (FPTP): candidate with the most votes wins.         |
@@ -235,8 +231,6 @@ Here’s a comparative table summarizing the  **General (Lok Sabha)** ,  **State
 ---
 
 ---
-
-
 
 ## Detailed Comparative Overview of the Roles and Responsibilities of MPs, MLAs, and Corporators
 
