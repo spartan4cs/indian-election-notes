@@ -8,7 +8,7 @@ India has a three-tiered government system: central (national), state, and local
 
 ---
 
-### 1. **General Elections (Lok Sabha)**
+#### 1. **General Elections (Lok Sabha)**
 
 **Purpose:**
 
@@ -21,7 +21,7 @@ To elect Members of Parliament (MPs) to form the central government.
 
 ---
 
-### 2. **State Elections (Vidhan Sabha)**
+#### 2. **State Elections (Vidhan Sabha)**
 
 **Purpose:**
 
@@ -36,7 +36,7 @@ To elect Members of the Legislative Assembly (MLAs) to form the state government
 
 ---
 
-### 3. **Municipal Elections**
+#### 3. **Municipal Elections**
 
 **Purpose:**
 
@@ -57,7 +57,7 @@ To manage local governance, like cities, towns, and villages, through municipal 
 
 ---
 
-### **Comparison at a Glance**
+#### **Comparison at a Glance**
 
 | **Aspect**             | **General (Lok Sabha)** | **State (Vidhan Sabha)** | **Municipal (Local)** |
 | ---------------------------- | ----------------------------- | ------------------------------ | --------------------------- |
@@ -69,7 +69,7 @@ To manage local governance, like cities, towns, and villages, through municipal 
 
 ---
 
-### Why Are These Elections Important?
+#### Why Are These Elections Important?
 
 1. **General Elections:** Decide national policies like defense, foreign relations, and economy.
 2. **State Elections:** Focus on local issues like education, health, and law and order.
@@ -83,7 +83,7 @@ The division of seats is based on  **population** ,  **geography** , and  **admi
 
 ---
 
-### 1. **General Elections (Lok Sabha Seats)**
+#### 1. **General Elections (Lok Sabha Seats)**
 
 * **Criteria for Division:**
   * Each state is assigned a number of Lok Sabha seats based on its population as per the last census.
@@ -94,7 +94,7 @@ The division of seats is based on  **population** ,  **geography** , and  **admi
 
 ---
 
-### 2. **State Elections (Vidhan Sabha Seats)**
+#### 2. **State Elections (Vidhan Sabha Seats)**
 
 * **Criteria for Division:**
   * Similar to Lok Sabha, seats are divided based on population.
@@ -108,7 +108,7 @@ The division of seats is based on  **population** ,  **geography** , and  **admi
 
 ---
 
-### 3. **Municipal Elections (Local Government)**
+#### 3. **Municipal Elections (Local Government)**
 
 * **Criteria for Division:**
   * Municipalities or corporations are divided into  **wards** , each representing a small locality.
@@ -121,7 +121,7 @@ The division of seats is based on  **population** ,  **geography** , and  **admi
 
 ---
 
-### Summary Table: Maharashtra and Mumbai Examples
+#### Summary Table: Maharashtra and Mumbai Examples
 
 | **Election Level**       | **Seats in Maharashtra** | **Seats in Mumbai** |
 | ------------------------------ | ------------------------------ | ------------------------- |
@@ -131,7 +131,7 @@ The division of seats is based on  **population** ,  **geography** , and  **admi
 
 ---
 
-### Importance of Division
+#### Importance of Division
 
 1. **Population Representation:** More populous areas get more seats to ensure equal representation.
 2. **Fairness in Governance:** Urban and rural areas are represented in proportion to their size.
@@ -141,7 +141,7 @@ The division of seats is based on  **population** ,  **geography** , and  **admi
 
 ---
 
-
+### **Key Takeaways:**
 
 Here’s a comparative table summarizing the  **General (Lok Sabha)** ,  **State (Vidhan Sabha)** , and **Municipal Elections** in India. This will help you understand the differences and similarities:
 
@@ -164,10 +164,9 @@ Here’s a comparative table summarizing the  **General (Lok Sabha)** ,  **State
 
 ---
 
-### Key Takeaways:
+#### **Scope of Governance:**
 
-* **Scope of Governance:**
-  * General elections affect the entire country.
+* * General elections affect the entire country.
   * State elections influence regional policies.
   * Municipal elections tackle everyday local problems.
 * **Scale:**
