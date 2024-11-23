@@ -1,6 +1,7 @@
 ### Resources
 
-
+* [https://results.eci.gov.in/](https://results.eci.gov.in/)
+* 
 
 ### General, State, and Municipal Elections in India: Explained
 
