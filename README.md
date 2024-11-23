@@ -48,9 +48,7 @@
 
 ---
 
-This list is now organized by the  **S.No.** , with the respective **term** of legislative assemblies,  **Lok Sabha** ,  **Rajya Sabha** , and **Assembly seats** for each state or Union Territory.
 
-Let me know if you need any further details!
 
 ### General, State, and Municipal Elections in India: Explained
 
