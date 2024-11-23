@@ -10,6 +10,7 @@
 | mla        | vidhayak       | aamdar     |
 | corporator | nagarsevak     | nagarsevak |
 
+### Lok sabha , Vidhan Sabha seats
 
 | **S.No.** | **State/UT**                                               | **From** | **To** | **Lok Sabha Seats** | **Assembly Seats** | **Rajya Sabha Seats** |
 | --------------- | ---------------------------------------------------------------- | -------------- | ------------ | ------------------------- | ------------------------ | --------------------------- |
